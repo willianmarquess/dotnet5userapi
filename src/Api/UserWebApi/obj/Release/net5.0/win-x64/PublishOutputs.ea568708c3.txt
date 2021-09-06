@@ -1,0 +1,7 @@
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Api\UserWebApi\obj\Release\net5.0\win-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Api\UserWebApi\obj\Release\net5.0\win-x64\PubTmp\Out\appsettings.json
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Api\UserWebApi\obj\Release\net5.0\win-x64\PubTmp\Out\UserWebApi.pdb
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Api\UserWebApi\obj\Release\net5.0\win-x64\PubTmp\Out\Service.Application.pdb
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Api\UserWebApi\obj\Release\net5.0\win-x64\PubTmp\Out\Service.Infra.pdb
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Api\UserWebApi\obj\Release\net5.0\win-x64\PubTmp\Out\Service.Domain.pdb
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Api\UserWebApi\obj\Release\net5.0\win-x64\PubTmp\Out\UserWebApi.exe

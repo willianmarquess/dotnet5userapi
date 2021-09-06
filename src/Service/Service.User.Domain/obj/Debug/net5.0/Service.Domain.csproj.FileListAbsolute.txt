@@ -1,0 +1,12 @@
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Service\Service.User.Domain\bin\Debug\net5.0\Service.Domain.deps.json
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Service\Service.User.Domain\bin\Debug\net5.0\Service.Domain.dll
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Service\Service.User.Domain\bin\Debug\net5.0\ref\Service.Domain.dll
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Service\Service.User.Domain\bin\Debug\net5.0\Service.Domain.pdb
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Service\Service.User.Domain\obj\Debug\net5.0\Service.Domain.csproj.AssemblyReference.cache
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Service\Service.User.Domain\obj\Debug\net5.0\Service.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Service\Service.User.Domain\obj\Debug\net5.0\Service.Domain.AssemblyInfoInputs.cache
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Service\Service.User.Domain\obj\Debug\net5.0\Service.Domain.AssemblyInfo.cs
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Service\Service.User.Domain\obj\Debug\net5.0\Service.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Service\Service.User.Domain\obj\Debug\net5.0\Service.Domain.dll
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Service\Service.User.Domain\obj\Debug\net5.0\ref\Service.Domain.dll
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Service\Service.User.Domain\obj\Debug\net5.0\Service.Domain.pdb

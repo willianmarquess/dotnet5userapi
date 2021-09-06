@@ -1,0 +1,15 @@
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Service\Service.User.Infra\bin\Release\net5.0\Service.Infra.deps.json
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Service\Service.User.Infra\bin\Release\net5.0\Service.Infra.dll
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Service\Service.User.Infra\bin\Release\net5.0\ref\Service.Infra.dll
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Service\Service.User.Infra\bin\Release\net5.0\Service.Infra.pdb
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Service\Service.User.Infra\bin\Release\net5.0\Service.Domain.dll
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Service\Service.User.Infra\bin\Release\net5.0\Service.Domain.pdb
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Service\Service.User.Infra\obj\Release\net5.0\Service.Infra.csproj.AssemblyReference.cache
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Service\Service.User.Infra\obj\Release\net5.0\Service.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Service\Service.User.Infra\obj\Release\net5.0\Service.Infra.AssemblyInfoInputs.cache
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Service\Service.User.Infra\obj\Release\net5.0\Service.Infra.AssemblyInfo.cs
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Service\Service.User.Infra\obj\Release\net5.0\Service.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Service\Service.User.Infra\obj\Release\net5.0\Service.Infra.csproj.CopyComplete
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Service\Service.User.Infra\obj\Release\net5.0\Service.Infra.dll
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Service\Service.User.Infra\obj\Release\net5.0\ref\Service.Infra.dll
+C:\Users\Willian\source\repos\UserApiMicroservice\src\Service\Service.User.Infra\obj\Release\net5.0\Service.Infra.pdb

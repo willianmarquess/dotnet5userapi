@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bn0VVsdI29PlvaONOrPXhHO5fV5P72fTbXKWI6h5crct2IG+zvkE2+O0m4RyVYr5UQiLfYKiBgdeZ8r1Vywv9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Willian\\source\\repos\\UserApiMicroservice\\src\\Service\\Service.User.Domain\\Service.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Willian\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
