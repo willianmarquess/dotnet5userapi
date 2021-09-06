@@ -34,17 +34,13 @@ namespace UserWebApi.Controllers
         [HttpGet]
         public async Task<ActionResult<List<User>>> Getall()
         {
-            var users = await Mediator.Send(new GetAllUsersQuery());
-            if(users.Count < 0) return NoContent();
-            return users;
+            return await Mediator.Send(new GetAllUsersQuery());
         }
 
         [HttpGet("{id:guid}")]
         public async Task<ActionResult<User>> GetById(string id)
         {
-            var user = await Mediator.Send(new GetUserByIdQuery { Id = id});
-            if (user is null) return NoContent();
-            return user;
+            return await Mediator.Send(new GetUserByIdQuery { Id = id});
         }
     }
 }
