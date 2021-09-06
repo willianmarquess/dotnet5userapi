@@ -21,12 +21,6 @@ namespace Service.Application
             services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
             services.AddMediatR(Assembly.GetExecutingAssembly());
             services.AddTransient(typeof(IPipelineBehavior<,>), typeof(ValidationMiddleware<,>));
-            services.AddScoped<IRequestHandler<CreateUserCommand, User>, CreateUserCommandHandler>();
-            services.AddScoped<IRequestHandler<UpdateUserCommand, User>, UpdateUserCommandHandler>();
-            services.AddScoped<INotificationHandler<UserCreatedEvent>, UserCreatedEventHandler>();
-            services.AddScoped<INotificationHandler<UserUpdatedEvent>, UserUpdatedEventHandler>();
-            services.AddScoped<IRequestHandler<GetAllUsersQuery, List<User>>, GetAllUsersQueryHandler>();
-            services.AddScoped<IRequestHandler<GetUserByIdQuery, User>, GetUserByIdQueryHandler>();
 
             return services;
         }
