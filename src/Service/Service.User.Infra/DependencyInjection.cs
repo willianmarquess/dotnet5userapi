@@ -8,7 +8,7 @@ namespace Service.Infra
     {
         public static IServiceCollection AddInfra(this IServiceCollection services)
         {
-            services.AddSingleton<RavenContext>();
+            //services.AddSingleton<RavenContext>();
             services.AddSingleton<UserContext>();
 
             return services;

@@ -4,7 +4,7 @@ namespace Service.Infra.Users
 {
     public class UserContext : RavenContext
     {
-        public UserContext()
+        public UserContext() : base()
         {
             CreateUserContextIndexes();
         }

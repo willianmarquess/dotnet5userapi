@@ -2,7 +2,7 @@
 
 namespace Service.Infra.Shared
 {
-    public class RavenContext
+    public abstract class RavenContext
     {
         public IDocumentStore DocumentStore { get; private set; }
         public RavenContext()
